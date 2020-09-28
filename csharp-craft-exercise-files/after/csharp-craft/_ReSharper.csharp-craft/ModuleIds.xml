@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6A30033C-06BB-430E-B08B-B8025D9D9572" ModuleId="csharp-craft" />
+  <Module PersistentId="2666D5BC-081D-4BE7-B99E-762446F5C641" ModuleId="Craft.Tests" />
+</Modules>

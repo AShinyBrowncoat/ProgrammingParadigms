@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="369fdd31-7ada-45bc-8828-b61402caf23e" name="bitmask@BIT7 2011-09-21 13:17:55" runUser="bit7\bitmask" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="68484c3f-a1bd-4d85-b5a1-99229b1bfaa2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bitmask_BIT7 2011-09-21 13_17_55" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-21T13:17:55.6320003-04:00" queuing="2011-09-21T13:17:55.7520003-04:00" start="2011-09-21T13:17:55.7720003-04:00" finish="2011-09-21T13:17:56.1030003-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DemonstrationOfCreatingAccount" storage="c:\temp\csharp-craft\after\csharp-craft\craft.tests\bin\debug\craft.tests.dll" id="2ded7999-b7ab-488b-e208-59e2f21c2c44">
+      <Execution id="62cbed34-7d58-4b25-8a9e-b9bc633122e2" />
+      <TestMethod codeBase="c:/temp/csharp-craft/after/csharp-craft/Craft.Tests/bin/Debug/Craft.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Craft.Tests.AccountBuilderTests, Craft.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DemonstrationOfCreatingAccount" />
+    </UnitTest>
+    <UnitTest name="AssignsDefaultValues" storage="c:\temp\csharp-craft\after\csharp-craft\craft.tests\bin\debug\craft.tests.dll" id="90983170-1f58-44cf-807a-5ba58d0a12f4">
+      <Execution id="5cecb8a4-722b-40ca-857d-42500b0f8d22" />
+      <TestMethod codeBase="c:/temp/csharp-craft/after/csharp-craft/Craft.Tests/bin/Debug/Craft.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Craft.Tests.AccountBuilderTests, Craft.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AssignsDefaultValues" />
+    </UnitTest>
+    <UnitTest name="CanCreateLateAccount" storage="c:\temp\csharp-craft\after\csharp-craft\craft.tests\bin\debug\craft.tests.dll" id="ab21606a-bbe0-3027-5946-e28f57fa5d11">
+      <Execution id="f3bd043e-1856-4726-9917-36968e71baf0" />
+      <TestMethod codeBase="c:/temp/csharp-craft/after/csharp-craft/Craft.Tests/bin/Debug/Craft.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Craft.Tests.AccountBuilderTests, Craft.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanCreateLateAccount" />
+    </UnitTest>
+    <UnitTest name="CanCreateAccount" storage="c:\temp\csharp-craft\after\csharp-craft\craft.tests\bin\debug\craft.tests.dll" id="7a0b0d3d-010b-7909-ec1f-80dde1cc9aca">
+      <Execution id="19e9efb9-c0bc-421b-a967-e0e153e13c56" />
+      <TestMethod codeBase="c:/temp/csharp-craft/after/csharp-craft/Craft.Tests/bin/Debug/Craft.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Craft.Tests.AccountBuilderTests, Craft.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanCreateAccount" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2ded7999-b7ab-488b-e208-59e2f21c2c44" executionId="62cbed34-7d58-4b25-8a9e-b9bc633122e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a0b0d3d-010b-7909-ec1f-80dde1cc9aca" executionId="19e9efb9-c0bc-421b-a967-e0e153e13c56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90983170-1f58-44cf-807a-5ba58d0a12f4" executionId="5cecb8a4-722b-40ca-857d-42500b0f8d22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab21606a-bbe0-3027-5946-e28f57fa5d11" executionId="f3bd043e-1856-4726-9917-36968e71baf0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="62cbed34-7d58-4b25-8a9e-b9bc633122e2" testId="2ded7999-b7ab-488b-e208-59e2f21c2c44" testName="DemonstrationOfCreatingAccount" computerName="BIT7" duration="00:00:00.0167222" startTime="2011-09-21T13:17:55.7880003-04:00" endTime="2011-09-21T13:17:56.0410003-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62cbed34-7d58-4b25-8a9e-b9bc633122e2">
+    </UnitTestResult>
+    <UnitTestResult executionId="19e9efb9-c0bc-421b-a967-e0e153e13c56" testId="7a0b0d3d-010b-7909-ec1f-80dde1cc9aca" testName="CanCreateAccount" computerName="BIT7" duration="00:00:00.0007061" startTime="2011-09-21T13:17:56.0420003-04:00" endTime="2011-09-21T13:17:56.0460003-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19e9efb9-c0bc-421b-a967-e0e153e13c56">
+    </UnitTestResult>
+    <UnitTestResult executionId="5cecb8a4-722b-40ca-857d-42500b0f8d22" testId="90983170-1f58-44cf-807a-5ba58d0a12f4" testName="AssignsDefaultValues" computerName="BIT7" duration="00:00:00.0007726" startTime="2011-09-21T13:17:56.0500003-04:00" endTime="2011-09-21T13:17:56.0560003-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cecb8a4-722b-40ca-857d-42500b0f8d22">
+    </UnitTestResult>
+    <UnitTestResult executionId="f3bd043e-1856-4726-9917-36968e71baf0" testId="ab21606a-bbe0-3027-5946-e28f57fa5d11" testName="CanCreateLateAccount" computerName="BIT7" duration="00:00:00.0020671" startTime="2011-09-21T13:17:56.0590003-04:00" endTime="2011-09-21T13:17:56.0670003-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f3bd043e-1856-4726-9917-36968e71baf0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="36890f74-0fd0-49f3-9e92-4ca08f66d16f" name="bitmask@BIT7 2011-09-21 13:12:14" runUser="bit7\bitmask" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="68484c3f-a1bd-4d85-b5a1-99229b1bfaa2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bitmask_BIT7 2011-09-21 13_12_14" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-21T13:12:14.7380003-04:00" queuing="2011-09-21T13:12:14.8200003-04:00" start="2011-09-21T13:12:14.8320003-04:00" finish="2011-09-21T13:12:15.1440003-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DemonstrationOfCreatingAccount" storage="c:\temp\csharp-craft\after\csharp-craft\craft.tests\bin\debug\craft.tests.dll" id="2ded7999-b7ab-488b-e208-59e2f21c2c44">
+      <Execution id="1dda0411-f827-4756-97c7-1b2c6b7fb266" />
+      <TestMethod codeBase="c:/temp/csharp-craft/after/csharp-craft/Craft.Tests/bin/Debug/Craft.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Craft.Tests.AccountBuilderTests, Craft.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DemonstrationOfCreatingAccount" />
+    </UnitTest>
+    <UnitTest name="CanCreateAccount" storage="c:\temp\csharp-craft\after\csharp-craft\craft.tests\bin\debug\craft.tests.dll" id="7a0b0d3d-010b-7909-ec1f-80dde1cc9aca">
+      <Execution id="9e6012ec-09f6-40aa-af51-5eb483d49611" />
+      <TestMethod codeBase="c:/temp/csharp-craft/after/csharp-craft/Craft.Tests/bin/Debug/Craft.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Craft.Tests.AccountBuilderTests, Craft.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanCreateAccount" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2ded7999-b7ab-488b-e208-59e2f21c2c44" executionId="1dda0411-f827-4756-97c7-1b2c6b7fb266" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a0b0d3d-010b-7909-ec1f-80dde1cc9aca" executionId="9e6012ec-09f6-40aa-af51-5eb483d49611" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1dda0411-f827-4756-97c7-1b2c6b7fb266" testId="2ded7999-b7ab-488b-e208-59e2f21c2c44" testName="DemonstrationOfCreatingAccount" computerName="BIT7" duration="00:00:00.0142621" startTime="2011-09-21T13:12:14.8500003-04:00" endTime="2011-09-21T13:12:15.1030003-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1dda0411-f827-4756-97c7-1b2c6b7fb266">
+    </UnitTestResult>
+    <UnitTestResult executionId="9e6012ec-09f6-40aa-af51-5eb483d49611" testId="7a0b0d3d-010b-7909-ec1f-80dde1cc9aca" testName="CanCreateAccount" computerName="BIT7" duration="00:00:00.0006822" startTime="2011-09-21T13:12:15.1060003-04:00" endTime="2011-09-21T13:12:15.1130003-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e6012ec-09f6-40aa-af51-5eb483d49611">
+    </UnitTestResult>
+  </Results>
+</TestRun>

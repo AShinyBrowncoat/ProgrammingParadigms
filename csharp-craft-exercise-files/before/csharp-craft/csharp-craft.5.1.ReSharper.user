@@ -1,0 +1,157 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:Account.cs" caret="236" fromTop="10" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:Customer.cs" caret="80" fromTop="4" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:Address.cs" caret="11" fromTop="0" />
+      <File id="6A30033C-06BB-430E-B08B-B8025D9D9572/f:Program.cs" caret="407" fromTop="11" />
+      <File id="6A30033C-06BB-430E-B08B-B8025D9D9572/f:Names.cs" caret="630" fromTop="9" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="3301" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="756" fromTop="0" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="956" fromTop="18" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="2850" fromTop="25" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="1459" fromTop="16" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="1645" fromTop="5" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="1795" fromTop="18" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="2188" fromTop="28" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="2061" fromTop="14" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="3297" fromTop="22" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="3147" fromTop="20" />
+      <File id="6A30033C-06BB-430E-B08B-B8025D9D9572/f:Names.cs" caret="284" fromTop="12" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="756" fromTop="8" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="736" fromTop="15" />
+      <File id="2666D5BC-081D-4BE7-B99E-762446F5C641/f:AccountBuilderTests.cs" caret="736" fromTop="3" />
+      <File id="6A30033C-06BB-430E-B08B-B8025D9D9572/f:Program.cs" caret="215" fromTop="11" />
+      <File id="6A30033C-06BB-430E-B08B-B8025D9D9572/f:Names.cs" caret="107" fromTop="8" />
+      <File id="6A30033C-06BB-430E-B08B-B8025D9D9572/f:Names.cs" caret="630" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="14" />
+      <Item value="bool" priority="8" />
+      <Item value="string" priority="14" />
+      <Item value="return" priority="14" />
+      <Item value="strInput" priority="2" />
+      <Item value="var" priority="7" />
+      <Item value="new" priority="20" />
+      <Item value="PalindromeTester`0" priority="0" />
+      <Item value="tester" priority="0" />
+      <Item value="cw" priority="0" />
+      <Item value="planindrome" priority="0" />
+      <Item value="strTrimmed" priority="3" />
+      <Item value="String`0" priority="1" />
+      <Item value="InvariantCultureIgnoreCase" priority="0" />
+      <Item value="input" priority="4" />
+      <Item value="IntPtr`0" priority="0" />
+      <Item value="reversed" priority="1" />
+      <Item value="forwards" priority="0" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="void" priority="6" />
+      <Item value="AccountBuilderTests`0" priority="0" />
+      <Item value="account" priority="15" />
+      <Item value="DateTime" priority="0" />
+      <Item value="DateTime`0" priority="6" />
+      <Item value="Customer" priority="2" />
+      <Item value="Address" priority="3" />
+      <Item value="true" priority="4" />
+      <Item value="class" priority="5" />
+      <Item value="static" priority="1" />
+      <Item value="Account`0" priority="7" />
+      <Item value="AccountBuilder" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="ctor" priority="1" />
+      <Item value="_account" priority="16" />
+      <Item value="Account" priority="2" />
+      <Item value="Name" priority="0" />
+      <Item value="City" priority="0" />
+      <Item value="Country" priority="0" />
+      <Item value="AccountBuilder`0" priority="2" />
+      <Item value="false" priority="10" />
+      <Item value="this" priority="1" />
+      <Item value="if" priority="7" />
+      <Item value="userName" priority="1" />
+      <Item value="byte" priority="2" />
+      <Item value="AccountManager`0" priority="0" />
+      <Item value="manager" priority="0" />
+      <Item value="storage" priority="0" />
+      <Item value="data" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="WriteFile`0" priority="1" />
+      <Item value="contents" priority="1" />
+      <Item value="BadImageFormatException`0" priority="0" />
+      <Item value="int" priority="3" />
+      <Item value="LoginCredentials`0" priority="0" />
+      <Item value="UserLoginRequest`0" priority="0" />
+      <Item value="prop" priority="3" />
+      <Item value="decimal" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="isValid" priority="2" />
+      <Item value="sendNotification" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Reverse`1" priority="3" />
+      <Item value="Replace`0" priority="2" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Equals`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="ToArray`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:csharp_craft.PalindromeTester">
+      <Item value="Test`0" priority="0" />
+      <Item value="IsPalindrome`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Craft.Tests.Account">
+      <Item value="Balance" priority="2" />
+      <Item value="DueDate" priority="3" />
+      <Item value="Customer" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddDays`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Craft.Tests.Customer">
+      <Item value="Address" priority="5" />
+      <Item value="IsVip" priority="2" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Craft.Tests.Address">
+      <Item value="City" priority="1" />
+      <Item value="Country" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:csharp_craft.AccountManager">
+      <Item value="WriteFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:csharp_craft.Account">
+      <Item value="Balance" priority="1" />
+      <Item value="IsVip" priority="2" />
+      <Item value="IsPastDue" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
